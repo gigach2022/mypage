@@ -1,6 +1,6 @@
 # 架空の自己紹介
 
-<img src="image.jpg">
+<img src="image.jpg" width="250" height="180">
 
 ## プロフィール
 - **氏名**:画眉丸（がびまる）
