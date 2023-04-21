@@ -1,6 +1,6 @@
 # 架空の自己紹介
 
-<img src="https://hobby.dengeki.com/ss/hobby/uploads/2023/03/10_gsf8aDccgqzMmZAFT9jZHd0NXg-tI5IX-440x330.jpg"  width="250" height="200">
+<img src="https://hobby.dengeki.com/ss/hobby/uploads/2023/03/10_gsf8aDccgqzMmZAFT9jZHd0NXg-tI5IX-440x330.jpg"  width="250" height="180">
 
 ## プロフィール
 - **氏名**:画眉丸（がびまる）
